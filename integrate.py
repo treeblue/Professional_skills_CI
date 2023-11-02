@@ -14,7 +14,7 @@ if __name__=='__main__':
 	while b < 1e7:
 		function(const,a,b)
 		function(gaus,a,b)
-		
+		b *=10		
 	
 
 	
